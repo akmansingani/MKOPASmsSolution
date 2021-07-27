@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+
+  sms.api:
+    image: ${DOCKER_REGISTRY-}smsapi
+    build:
+      context: .
+      dockerfile: SMS.API/Dockerfile
+    depends_on:
+      - rabbitmq
+
+  creator.api:
+    image: ${DOCKER_REGISTRY-}creatorapi
+    build:
+      context: .
+      dockerfile: Creator.API/Dockerfile
+    depends_on:
+      - rabbitmq

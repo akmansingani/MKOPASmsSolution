@@ -1,0 +1,39 @@
+services:
+  creator.api:
+    build:
+      context: D:\All Docs\Code\Mkopa\MkopaSMSSolutions
+      dockerfile: Creator.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
+    image: creatorapi
+    ports:
+    - published: 8124
+      target: 80
+  rabbitmq:
+    container_name: rabbit_mq
+    image: rabbitmq:3-management-alpine
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+    restart: always
+  sms.api:
+    build:
+      context: D:\All Docs\Code\Mkopa\MkopaSMSSolutions
+      dockerfile: SMS.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
+    image: smsapi
+    ports:
+    - published: 8123
+      target: 80
+version: '3.4'

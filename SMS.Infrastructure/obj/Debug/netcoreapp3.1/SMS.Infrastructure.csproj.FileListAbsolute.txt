@@ -1,0 +1,42 @@
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\bin\Debug\netcoreapp3.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.deps.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.AssemblyReference.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfoInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.AssemblyInfo.cs
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.csproj.CopyComplete
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\obj\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Infrastructure\bin\Debug\netcoreapp3.1\EventBus.pdb

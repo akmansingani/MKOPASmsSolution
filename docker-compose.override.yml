@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+
+  rabbitmq:
+    container_name: rabbit_mq
+    restart: always
+    ports:
+        - "5672:5672"
+        - "15672:15672"  
+
+  sms.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "EventBusSettings:HostAddress=amqp://guest:guest@rabbitmq:5672"
+    ports:
+      - "8123:80"
+
+  creator.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "EventBusSettings:HostAddress=amqp://guest:guest@rabbitmq:5672"
+    ports:
+      - "8124:80"
+    

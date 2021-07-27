@@ -1,0 +1,8 @@
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\bin\Debug\netstandard2.1\EventBus.deps.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\bin\Debug\netstandard2.1\EventBus.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\bin\Debug\netstandard2.1\EventBus.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\obj\Debug\netstandard2.1\EventBus.AssemblyInfoInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\obj\Debug\netstandard2.1\EventBus.AssemblyInfo.cs
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\obj\Debug\netstandard2.1\EventBus.csproj.CoreCompileInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\obj\Debug\netstandard2.1\EventBus.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\EventBus\obj\Debug\netstandard2.1\EventBus.pdb

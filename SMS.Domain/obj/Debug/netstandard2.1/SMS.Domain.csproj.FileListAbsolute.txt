@@ -1,0 +1,26 @@
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\bin\Debug\netstandard2.1\SMS.Domain.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\bin\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\bin\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\obj\Debug\netstandard2.1\SMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\obj\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Domain\obj\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.csproj.AssemblyReference.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.deps.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\bin\Debug\netstandard2.1\SMS.Domain.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.csproj.AssemblyReference.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfoInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.AssemblyInfo.cs
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.csproj.CoreCompileInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Domain\obj\Debug\netstandard2.1\SMS.Domain.pdb

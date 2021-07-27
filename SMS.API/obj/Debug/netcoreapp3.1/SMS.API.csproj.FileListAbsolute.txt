@@ -1,0 +1,211 @@
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.exe
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.dev.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.API.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\bin\Debug\netcoreapp3.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.Manifest.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.xml
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\SMS.API.styles.css
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\API\obj\Debug\netcoreapp3.1\SMS.API.genruntimeconfig.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.exe
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.dev.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.Manifest.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.xml
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\SMS.API.styles.css
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.genruntimeconfig.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.exe
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.deps.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.runtimeconfig.dev.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.API.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Application.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Application.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\SMS.Infrastructure.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.AssemblyReference.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfoInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.AssemblyInfo.cs
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CoreCompileInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.Manifest.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\staticwebassets\SMS.API.StaticWebAssets.xml
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\SMS.API.styles.css
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.RazorTargetAssemblyInfo.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.csproj.CopyComplete
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\obj\Debug\netcoreapp3.1\SMS.API.genruntimeconfig.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\EventBus.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.ApplicationInsights.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.ApplicationInsights.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\HealthChecks.RabbitMQ.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

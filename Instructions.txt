@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------------------------------------
+
+Instructions to run project
+
+1) Go to project repo via command line
+
+2) Run below command
+docker-compose -f docker-compose.yml -f docker-compose.override.yml up
+
+3) Open Postman and make post request with below details
+Post Request
+URL : http://localhost:8124/api/create/sendsmsqueue
+
+Body :
+
+{
+    "PhoneNumber" : "123456789",
+    "SMSText" : "test"
+}
+
+-----------------------------------------------------------------------------------------------------------------------
+# Project contains 2 services
+1) Creator.API service - sends sms to queue
+2) SMS.API service - consumes the queue and does necessary action.
+
+# Both Service contains test projects
+# Clean architecture with CQRS + mediatr is used in SMS.API project
+# Below are urls for health check of services
+http://localhost:8123/health
+http://localhost:8124/health

@@ -1,0 +1,36 @@
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\bin\Debug\netstandard2.1\SMS.Application.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\bin\Debug\netstandard2.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\bin\Debug\netstandard2.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\bin\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\bin\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\Application\obj\Debug\netstandard2.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.deps.json
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Domain.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Domain.pdb
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.AssemblyReference.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfoInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfo.cs
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CopyComplete
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.dll
+C:\Users\Windows10Pro\source\repos\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.deps.json
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\SMS.Application.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.AssemblyReference.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfoInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.AssemblyInfo.cs
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CoreCompileInputs.cache
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.csproj.CopyComplete
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\obj\Debug\netstandard2.1\SMS.Application.pdb
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\EventBus.dll
+D:\All Docs\Code\Mkopa\MkopaSMSSolutions\SMS.Application\bin\Debug\netstandard2.1\EventBus.pdb

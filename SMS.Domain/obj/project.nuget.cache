@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOOWMxEo3nmjVA8eV/nF1Pp2nxljJkxJL4WW7IbMAWK9D4hDBRsrbMCTFDnrjIEry2Jdud51dYTWf+YojYlo0g==",
+  "success": true,
+  "projectFilePath": "D:\\All Docs\\Code\\Mkopa\\MkopaSMSSolutions\\SMS.Domain\\SMS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
